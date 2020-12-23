@@ -7,7 +7,7 @@ zxx飞翔的鱼: https://github.com/z814081807
 
 我是蛋糕王：https://github.com/WuHuRestaurant
 
-数青峰：xxx
+数青峰：https://github.com/zchaizju
 
 ### 后续官方开放数据集后DeepNER项目会进行优化升级，包含完整的数据处理、训练、验证、测试、部署流程，提供详细的代码注释、模型介绍、实验结果，提供更普适的基于预训练的中文命名实体识别方案，开箱即用，欢迎Star!
 
